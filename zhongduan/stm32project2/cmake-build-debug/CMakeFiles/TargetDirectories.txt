@@ -1,0 +1,3 @@
+/home/yixin/CLionProjects/步进电机的四种控制/zhongduan/stm32project2/cmake-build-debug/CMakeFiles/stm32project2.elf.dir
+/home/yixin/CLionProjects/步进电机的四种控制/zhongduan/stm32project2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yixin/CLionProjects/步进电机的四种控制/zhongduan/stm32project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
