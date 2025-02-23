@@ -10,8 +10,8 @@ https://github.com/Re-restart/A-low-cost-robotic-arm-automatic-sorting-line<br>
 https://blog.csdn.net/weixin_53318879/article/details/145791412?spm=1001.2014.3001.5502
 
 
-pulse_CCR_delaystop：定时器比较输出，延时控制停止
-pulse_CCR_IT_LeftRight：定时器比较输出，按钮切换正反转
-pulse_PWM_LeftRight：定时器pwm输出，按钮切换正反转
-vcc_gnd：模拟io控制
-zhongduan：定时器中断溢出方式控制电机
+pulse_CCR_delaystop：定时器比较输出，延时控制停止<br>
+pulse_CCR_IT_LeftRight：定时器比较输出，按钮切换正反转<br>
+pulse_PWM_LeftRight：定时器pwm输出，按钮切换正反转<br>
+vcc_gnd：模拟io控制<br>
+zhongduan：定时器中断溢出方式控制电机<br>
